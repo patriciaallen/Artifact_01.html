@@ -64,8 +64,9 @@ Internship – 12 weeks full-time</p>
 <ul>
 <li>Portuguese - Native Tongue)</li>
 <li>French - Basic (reading and writing skills)</li>
-<h3>Other:</h3>
   </ul>
+<h3>Other:</h3>
+  
 <ul>
   <li>St John’s Ambulance Senior First Aid Certificate - 2007</li>
 </ul>
