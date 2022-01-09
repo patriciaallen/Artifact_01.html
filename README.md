@@ -86,6 +86,7 @@ Enthusiastic self-starter who contributes well to the team</p>
   Fax: +555 111 998<br>
   Email: juanmaciel@moemamktg.br<br>
 </address>
+<br />
 <address>
   Ms Izabela Monteiro<br>
   Marketing Manager<br>
