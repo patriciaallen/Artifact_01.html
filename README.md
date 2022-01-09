@@ -61,9 +61,11 @@ Internship – 12 weeks full-time</p>
   <li>Fidelio Front Office Systems 6.02 – Beginner</li>
 </ul>
 <h3>Language Skills:</h3>
+<ul>
 <li>Portuguese - Native Tongue)</li>
 <li>French - Basic (reading and writing skills)</li>
 <h3>Other:</h3>
+  </ul>
 <ul>
   <li>St John’s Ambulance Senior First Aid Certificate - 2007</li>
 </ul>
